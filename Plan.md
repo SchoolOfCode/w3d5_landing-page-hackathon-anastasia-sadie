@@ -8,3 +8,15 @@ HACKATHON PLAN
   - Put Divs in HTML once we decided on High Fidelity 
   - Copy styles from Figma and put them in CSS classes and variables.
 7. Decide on the colour scheme using Coolers
+
+
+
+
+
+
+
+Stretch goals
+
+add another user persona
+add possible negative outcomes and pain points to the user journey flowchart
+add touch points to the user journey flow chart ie. what buttons we want them to press and where we want them to go etc.
